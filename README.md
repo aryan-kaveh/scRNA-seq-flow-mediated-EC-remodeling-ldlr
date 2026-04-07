@@ -12,7 +12,7 @@ Atherosclerosis, the leading cause of cardiovascular disease, is associated with
 
 ## Scope
 
-This repository documents the computational framework associated with the study.
+This repository documents the single-cell RNA sequencing computational framework associated with the study.
 
 The original analyses were performed using project-specific scripts and package versions available at the time of the study. As the single-cell analysis ecosystem has evolved substantially since then, this repository directs readers to the current official documentation for the main analytical procedures used in the manuscript, including preprocessing, clustering, dimensionality reduction, differential expression, integration, and trajectory inference.
 
