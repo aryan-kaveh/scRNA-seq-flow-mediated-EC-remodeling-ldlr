@@ -1,4 +1,4 @@
-# Flow-mediated endothelial remodeling and inflammation drive developmental vascular susceptibility in ldlr loss of function
+# Flow-mediated endothelial remodeling and inflammation drive developmental vascular susceptibility in _ldlr_ loss of function
 
 This repository accompanies the Nature Communications manuscript:
 
@@ -114,7 +114,7 @@ https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE212388
 
 If using the datasets or analysis framework associated with this work, please cite the manuscript:
 
-**Flow-mediated endothelial remodeling and inflammation drive developmental vascular susceptibility in ldlr loss of function**
+**Flow-mediated endothelial remodeling and inflammation drive developmental vascular susceptibility in _ldlr_ loss of function**
 
 ---
 
