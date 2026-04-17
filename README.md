@@ -86,7 +86,7 @@ Gene set resources used for enrichment-based interpretation:
 
 ## Data availability
 
-The single-cell datasets associated with this study are available through NCBI Gene Expression Omnibus (GEO):
+The single-cell datasets associated with this study are publically available through NCBI Gene Expression Omnibus (GEO):
 
 - **GSE275308**
 - **GSE212388**
@@ -94,7 +94,7 @@ The single-cell datasets associated with this study are available through NCBI G
 GEO home:  
 https://www.ncbi.nlm.nih.gov/geo/
 
-GSE275308 accession page (will be made available upon publication of manuscript):
+GSE275308 accession page:
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE275308
 
 GSE212388 accession page:  
